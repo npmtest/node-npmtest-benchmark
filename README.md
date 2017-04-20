@@ -1,4 +1,7 @@
-# test coverage for  [benchmark (v2.1.4)](https://benchmarkjs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-benchmark.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-benchmark) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-benchmark.svg)](https://travis-ci.org/npmtest/node-npmtest-benchmark)
+# npmtest-benchmark
+
+#### basic test coverage for  [benchmark (v2.1.4)](https://benchmarkjs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-benchmark.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-benchmark) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-benchmark.svg)](https://travis-ci.org/npmtest/node-npmtest-benchmark)
+
 #### A benchmarking library that supports high-resolution timers & returns statistically significant results.
 
 [![NPM](https://nodei.co/npm/benchmark.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/benchmark)
